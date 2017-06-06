@@ -1,6 +1,6 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+title: Ingreso Vital
+description: Ingreso periódico entregado en efectivo sin ningún condicionante y de manera individual.
+# sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
